@@ -1,0 +1,16 @@
+{
+    "Guest List": [
+        {
+        "firstName": "Meghan",
+        "lastName": "Allen",
+        "age": 40,
+        "isAttending": true
+        },
+        {
+        "firstName": "Elisa",
+        "lastName": "Baniassad",
+        "age": 45,
+        "isAttending": true
+        }
+    ]
+}

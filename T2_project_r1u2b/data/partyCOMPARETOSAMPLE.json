@@ -1,0 +1,39 @@
+{
+    "occasion for party": "Felix Grund's birthday",
+    "food list": [
+        {
+            "food is needed": true,
+            "food item name": "pizza",
+            "food item category": "Main",
+            "purchase status": false
+        },
+        {
+            "food is needed": true,
+            "food item name": "cake",
+            "food item category": "Dessert",
+            "purchase status": true
+        }
+    ],
+    "guest list": [
+        {
+            "last name": "Allen",
+            "first name": "Meghan",
+            "attendance status": true,
+            "age": 0
+        },
+        {
+            "last name": "Baniassad",
+            "first name": "Elisa",
+            "attendance status": true,
+            "age": 45
+        }
+    ],
+    "party theme": "CPSC210",
+    "type of party": "birthday",
+    "decor list": [{
+        "decor item quantity": 39,
+        "item is being used": true,
+        "decor item colour": "green",
+        "decor item name": "Streamers"
+    }]
+}

@@ -1,0 +1,16 @@
+{
+    "Decor List": [
+        {
+        "decorItemName": "Streamers",
+        "decorItemColour": "green",
+        "decorItemQuantity": 39,
+        "itemIsBeingUsed": true
+        },
+        {
+        "decorItemName": "Computers",
+        "decorItemColour": "grey",
+        "decorItemQuantity": 49,
+        "itemIsBeingUsed": true
+        }
+    ]
+}

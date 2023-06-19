@@ -1,0 +1,41 @@
+{
+    "occasion for party": "Felix Grund's birthday",
+    "party theme": "CPSC210",
+    "type of party": "birthday",
+    "Guest List": [
+        {
+        "firstName": "Meghan",
+        "lastName": "Allen",
+        "age": 0,
+        "isAttending": true
+        },
+        {
+        "firstName": "Elisa",
+        "lastName": "Baniassad",
+        "age": 45,
+        "isAttending": true
+        },
+    ],
+    "Decor List": [
+        {
+        "decorItemName": "Streamers",
+        "decorItemColour": "green",
+        "decorItemQuantity": 39,
+        "itemIsBeingUsed": true
+        },
+    ],
+    "Food List": [
+        {
+        "foodItemCategory": "Main",
+        "foodItemName": "pizza",
+        "hasBeenPurchased": false,
+        "isNeeded": true
+        },
+        {
+        "foodItemCategory": "Dessert",
+        "foodItemName": "cake",
+        "hasBeenPurchased": true,
+        "isNeeded": true
+        }
+    ]
+}

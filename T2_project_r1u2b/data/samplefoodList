@@ -1,0 +1,16 @@
+{
+    "Food List": [
+        {
+        "foodItemCategory": "Main",
+        "foodItemName": "pizza",
+        "hasBeenPurchased": false,
+        "isNeeded": true
+        },
+        {
+        "foodItemCategory": "Dessert",
+        "foodItemName": "cake",
+        "hasBeenPurchased": true,
+        "isNeeded": true
+        }
+    ]
+}
